@@ -1,16 +1,16 @@
-### Hi there 👋
+ ABOUT ME:
+ Hi there 🔥
+ I am Shivsampat .I am 20 years old student currently studying at NIT Manipur,India.
+ I just finished front end development from udemy , I am looking for open source contibution .
+ I am new at it.
+ I need help in it.
+ Technologies I'm Learning 📚
+Software:
+C C++
 
-<!--
-**shiv-076/shiv-076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end:
+HTML CSS JAVASCRIPT
 
-Here are some ideas to get you started:
+Editors and Operating Systems:
+VS Code 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
